@@ -10,7 +10,7 @@ Je conçois des outils de données et d'IA qui relient la recherche et les entre
 
 **[BeerCan.fr](https://github.com/BeerCan2023)**, une association de culture scientifique et de sensibilisation à l'IA. Elle publie des outils libres : la suite BeerMusic, un convertisseur Markdown vers PDF et un outil d'incrustation de sous-titres.
 
-**[Ganesh](http://ganesh.audio/)** (2016 à 2017), une prothèse auditive open source, programmable et fabricable en FabLab, dont j'ai porté le projet, en collaboration avec l'association My Human Kit.
+**Ganesh** (2016 à 2018), une prothèse auditive open source, programmable et fabricable en FabLab, dont j'ai porté le projet.
 
 ## Outils
 
